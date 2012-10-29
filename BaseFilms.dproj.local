@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.06.03 23:49:42.328.pas,C:\Users\Саша\Documents\RAD Studio\Projects\Unit1.pas=D:\WORK\Project\Base_Films\Unit_glavn.pas</Transaction>
+    <Transaction>2010.06.03 23:49:42.328.dfm,C:\Users\Саша\Documents\RAD Studio\Projects\Unit1.dfm=D:\WORK\Project\Base_Films\Unit_glavn.dfm</Transaction>
+    <Transaction>2010.06.03 23:49:52.732.dproj,C:\Users\Саша\Documents\RAD Studio\Projects\Project1.dproj=D:\WORK\Project\Base_Films\BaseFilms.dproj</Transaction>
+    <Transaction>2010.06.04 19:05:46.499.pas,D:\WORK\Project\Base_Films\Unit1.pas=D:\WORK\Project\Base_Films\Unit_description.pas</Transaction>
+    <Transaction>2010.06.04 19:05:46.499.dfm,D:\WORK\Project\Base_Films\Unit1.dfm=D:\WORK\Project\Base_Films\Unit_description.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
